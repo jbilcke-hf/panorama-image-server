@@ -1,0 +1,14 @@
+torch==2.0.1
+transformers==4.31.0
+torchvision==0.15.2
+accelerate==0.21.0
+diffusers==0.19.3
+basicsr==1.4.2
+pandas==2.0.3
+gradio==3.44.3
+huggingface_hub
+cog_sdxl
+realesrgan
+cv2
+Pillow
+
